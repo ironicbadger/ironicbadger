@@ -9,7 +9,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ironicbadger)
 
 - Find all my places at [alex.ktz.me](https://alex.ktz.me).
-- I’m currently working as a Developer Advocate for [Tailscale](https://tailscale.com/).
+- I’m currently working as a Developer Advocate at [Tailscale](https://tailscale.com/).
 - Check my 🖋 [blog](http://blog.ktz.me/) & [Perfect Media Server](https://perfectmediaserver.com/)
 
 ![alex](alex-crop.jpeg)
