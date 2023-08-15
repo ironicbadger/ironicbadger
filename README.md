@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Alex AKA IronicBadger
 
-**Father. Podcaster [@selfhostedshow](https://selfhosted.show/) podcast. Photographer. Tinkerer. Tailscalar.**
+**Father. Podcaster - [@selfhostedshow](https://selfhosted.show/). Photographer. Tinkerer. Tailscalar.**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-kretzschmar)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@ironicbadger)
