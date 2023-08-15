@@ -12,8 +12,6 @@
 - I’m currently working as a Developer Advocate at [Tailscale](https://tailscale.com/).
 - Check my 🖋 [blog](http://blog.ktz.me/) & [Perfect Media Server](https://perfectmediaserver.com/)
 
-![alex](alex-crop.jpeg)
-
 #
 
 ### 📺  Latest YouTube Videos
