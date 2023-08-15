@@ -3,12 +3,16 @@
 **Father. Podcaster [@selfhostedshow](https://selfhosted.show/) podcast. Photographer. Tinkerer. Tailscalar.**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-kretzschmar)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ironicbadger)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IronicBadger)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@ironicbadger)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/#self-hosted:matrix.org)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IronicBadger)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ironicbadger)
 
-- 🔭 I’m currently working as a Developer Advocate for Tailscale.
+- Find all my places at [alex.ktz.me](https://alex.ktz.me).
+- I’m currently working as a Developer Advocate for [Tailscale](https://tailscale.com/).
 - Check my 🖋 [blog](http://blog.ktz.me/) & [Perfect Media Server](https://perfectmediaserver.com/)
+
+![alex](alex.jpeg)
 
 #
 
