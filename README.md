@@ -22,12 +22,7 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![3D Printing in a Homelab | It's totally not just for toys!](https://ytcards.demolab.com/?id=qWG9V1ve-YU&title=3D+Printing+in+a+Homelab+%7C+It%27s+totally+not+just+for+toys%21&lang=en&timestamp=1701729382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "3D Printing in a Homelab | It's totally not just for toys!")](https://www.youtube.com/watch?v=qWG9V1ve-YU)
-[![Racking and stacking the HL15 from #45homelab #hl15](https://ytcards.demolab.com/?id=9jGbUpXK5iM&title=Racking+and+stacking+the+HL15+from+%2345homelab+%23hl15&lang=en&timestamp=1701450024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Racking and stacking the HL15 from #45homelab #hl15")](https://www.youtube.com/watch?v=9jGbUpXK5iM)
-[![A Fancy Login Banner for your Linux Server](https://ytcards.demolab.com/?id=GPQ6k2GR17I&title=A+Fancy+Login+Banner+for+your+Linux+Server&lang=en&timestamp=1701395814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A Fancy Login Banner for your Linux Server")](https://www.youtube.com/watch?v=GPQ6k2GR17I)
-[![HL15 from 45Homelab - The Self-Hosters Review](https://ytcards.demolab.com/?id=FTWAWDxrbqE&title=HL15+from+45Homelab+-+The+Self-Hosters+Review&lang=en&timestamp=1700286277&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HL15 from 45Homelab - The Self-Hosters Review")](https://www.youtube.com/watch?v=FTWAWDxrbqE)
-[![My Backup Situation is a Disaster!](https://ytcards.demolab.com/?id=dmOyELZMK4A&title=My+Backup+Situation+is+a+Disaster%21&lang=en&timestamp=1699155450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Backup Situation is a Disaster!")](https://www.youtube.com/watch?v=dmOyELZMK4A)
-[![Is Quick Sync Video any good? Media Server Hardware Encoding Tests | Enquire within, help needed!](https://ytcards.demolab.com/?id=ceUIUyZwchY&title=Is+Quick+Sync+Video+any+good%3F+Media+Server+Hardware+Encoding+Tests+%7C+Enquire+within%2C+help+needed%21&lang=en&timestamp=1694374209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Is Quick Sync Video any good? Media Server Hardware Encoding Tests | Enquire within, help needed!")](https://www.youtube.com/watch?v=ceUIUyZwchY)
+
 <!-- END YOUTUBE-CARDS -->
 #
 
