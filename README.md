@@ -22,12 +22,7 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![An Epyc Homelab Monster: the Perfect Media Server mega upgrade](https://ytcards.demolab.com/?id=91dp5l44X8A&title=An+Epyc+Homelab+Monster%3A+the+Perfect+Media+Server+mega+upgrade&lang=en&timestamp=1709312406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "An Epyc Homelab Monster: the Perfect Media Server mega upgrade")](https://www.youtube.com/watch?v=91dp5l44X8A)
-[![My Perfect Media Server isn't so perfect anymore...](https://ytcards.demolab.com/?id=B2cjMSVRC-c&title=My+Perfect+Media+Server+isn%27t+so+perfect+anymore...&lang=en&timestamp=1708826368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Perfect Media Server isn't so perfect anymore...")](https://www.youtube.com/watch?v=B2cjMSVRC-c)
-[![An Unbiased Comparison of the Prusa MK3 vs Bambu Lab X1-Carbon](https://ytcards.demolab.com/?id=rdnuLvBx66I&title=An+Unbiased+Comparison+of+the+Prusa+MK3+vs+Bambu+Lab+X1-Carbon&lang=en&timestamp=1702906010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "An Unbiased Comparison of the Prusa MK3 vs Bambu Lab X1-Carbon")](https://www.youtube.com/watch?v=rdnuLvBx66I)
-[![Let’s build an AMD Ryzen Framework 13 DIY together](https://ytcards.demolab.com/?id=S53gyecbsC0&title=Let%E2%80%99s+build+an+AMD+Ryzen+Framework+13+DIY+together&lang=en&timestamp=1702335622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Let’s build an AMD Ryzen Framework 13 DIY together")](https://www.youtube.com/watch?v=S53gyecbsC0)
-[![3D Printing in a Homelab | It's totally not just for toys!](https://ytcards.demolab.com/?id=qWG9V1ve-YU&title=3D+Printing+in+a+Homelab+%7C+It%27s+totally+not+just+for+toys%21&lang=en&timestamp=1701729382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "3D Printing in a Homelab | It's totally not just for toys!")](https://www.youtube.com/watch?v=qWG9V1ve-YU)
-[![Racking and stacking the HL15 from #45homelab #hl15](https://ytcards.demolab.com/?id=9jGbUpXK5iM&title=Racking+and+stacking+the+HL15+from+%2345homelab+%23hl15&lang=en&timestamp=1701450024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Racking and stacking the HL15 from #45homelab #hl15")](https://www.youtube.com/watch?v=9jGbUpXK5iM)
+
 <!-- END YOUTUBE-CARDS -->
 #
 
