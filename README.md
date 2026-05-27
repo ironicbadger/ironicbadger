@@ -20,7 +20,12 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Plex’s Decline Was Years in the Making](https://ytcards.demolab.com/?id=s9ELRrIXVmQ&title=Plex%E2%80%99s+Decline+Was+Years+in+the+Making&lang=en&timestamp=1779657501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Plex’s Decline Was Years in the Making")](https://www.youtube.com/watch?v=s9ELRrIXVmQ)
+[![Plex Pass Is Changing Forever](https://ytcards.demolab.com/?id=svzFXwS8Abs&title=Plex+Pass+Is+Changing+Forever&lang=en&timestamp=1779223871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Plex Pass Is Changing Forever")](https://www.youtube.com/watch?v=svzFXwS8Abs)
+[![I had to see the scale for myself to understand](https://ytcards.demolab.com/?id=_jBRSVFXLEk&title=I+had+to+see+the+scale+for+myself+to+understand&lang=en&timestamp=1778862037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I had to see the scale for myself to understand")](https://www.youtube.com/watch?v=_jBRSVFXLEk)
+[![Lenovo M90q Homelab Upgrade Gone Wrong](https://ytcards.demolab.com/?id=pfwWWEeWkXM&title=Lenovo+M90q+Homelab+Upgrade+Gone+Wrong&lang=en&timestamp=1777693419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lenovo M90q Homelab Upgrade Gone Wrong")](https://www.youtube.com/watch?v=pfwWWEeWkXM)
+[![Watching a Falcon Heavy Launch from Jetty Park viasat3 April 2026](https://ytcards.demolab.com/?id=XYAG-Ddhc08&title=Watching+a+Falcon+Heavy+Launch+from+Jetty+Park+viasat3+April+2026&lang=en&timestamp=1777488259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Watching a Falcon Heavy Launch from Jetty Park viasat3 April 2026")](https://www.youtube.com/shorts/XYAG-Ddhc08)
+[![My Minisforum MS-01 Let Out the Magic Smoke](https://ytcards.demolab.com/?id=iMDt362jagU&title=My+Minisforum+MS-01+Let+Out+the+Magic+Smoke&lang=en&timestamp=1776696342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Minisforum MS-01 Let Out the Magic Smoke")](https://www.youtube.com/watch?v=iMDt362jagU)
 <!-- END YOUTUBE-CARDS -->
 #
 
