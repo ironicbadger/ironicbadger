@@ -20,7 +20,12 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Perfect Media Server Part 3 | How to build a self-hosted media server](https://ytcards.demolab.com/?id=5xLopzndVfU&title=Perfect+Media+Server+Part+3+%7C+How+to+build+a+self-hosted+media+server&lang=en&timestamp=1780972325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Perfect Media Server Part 3 | How to build a self-hosted media server")](https://www.youtube.com/watch?v=5xLopzndVfU)
+[![Why Jellyfin Still Matters Even If It Isn't Perfect | #JellyfinJune ep2](https://ytcards.demolab.com/?id=ZNHvBo5xHEA&title=Why+Jellyfin+Still+Matters+Even+If+It+Isn%27t+Perfect+%7C+%23JellyfinJune+ep2&lang=en&timestamp=1780574902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Why Jellyfin Still Matters Even If It Isn't Perfect | #JellyfinJune ep2")](https://www.youtube.com/watch?v=ZNHvBo5xHEA)
+[![Goodbye Plex, Hello Jellyfin | #JellyfinJune Ep 1](https://ytcards.demolab.com/?id=bYVyBfvOGaI&title=Goodbye+Plex%2C+Hello+Jellyfin+%7C+%23JellyfinJune+Ep+1&lang=en&timestamp=1780372005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Goodbye Plex, Hello Jellyfin | #JellyfinJune Ep 1")](https://www.youtube.com/watch?v=bYVyBfvOGaI)
+[![Repaired! They put the magic smoke back into my MS-01](https://ytcards.demolab.com/?id=pT7goL1RoGw&title=Repaired%21+They+put+the+magic+smoke+back+into+my+MS-01&lang=en&timestamp=1780100908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Repaired! They put the magic smoke back into my MS-01")](https://www.youtube.com/watch?v=pT7goL1RoGw)
+[![Plex’s Decline Was Years in the Making](https://ytcards.demolab.com/?id=s9ELRrIXVmQ&title=Plex%E2%80%99s+Decline+Was+Years+in+the+Making&lang=en&timestamp=1779657501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Plex’s Decline Was Years in the Making")](https://www.youtube.com/watch?v=s9ELRrIXVmQ)
+[![Plex Pass Is Changing Forever](https://ytcards.demolab.com/?id=svzFXwS8Abs&title=Plex+Pass+Is+Changing+Forever&lang=en&timestamp=1779223871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Plex Pass Is Changing Forever")](https://www.youtube.com/watch?v=svzFXwS8Abs)
 <!-- END YOUTUBE-CARDS -->
 #
 
