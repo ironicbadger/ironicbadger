@@ -20,12 +20,7 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Jellyfin Just Lost Its Project Leader. What Happens Next?](https://ytcards.demolab.com/?id=6lZJXmB3x20&title=Jellyfin+Just+Lost+Its+Project+Leader.+What+Happens+Next%3F&lang=en&timestamp=1784673384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jellyfin Just Lost Its Project Leader. What Happens Next?")](https://www.youtube.com/watch?v=6lZJXmB3x20)
-[![New gear day! A Tour of My YouTube Recording Setup](https://ytcards.demolab.com/?id=7YaKLzjrUL8&title=New+gear+day%21+A+Tour+of+My+YouTube+Recording+Setup&lang=en&timestamp=1784074954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "New gear day! A Tour of My YouTube Recording Setup")](https://www.youtube.com/watch?v=7YaKLzjrUL8)
-[![I Made My 10-Year-Old Nvidia Shield Feel Brand New](https://ytcards.demolab.com/?id=6b1nBC-lkk0&title=I+Made+My+10-Year-Old+Nvidia+Shield+Feel+Brand+New&lang=en&timestamp=1783786932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Made My 10-Year-Old Nvidia Shield Feel Brand New")](https://www.youtube.com/watch?v=6b1nBC-lkk0)
-[![Immich v3 changes roundup | New features + breaking changes...](https://ytcards.demolab.com/?id=Pw6l4ZD4mC4&title=Immich+v3+changes+roundup+%7C+New+features+%2B+breaking+changes...&lang=en&timestamp=1783092885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Immich v3 changes roundup | New features + breaking changes...")](https://www.youtube.com/watch?v=Pw6l4ZD4mC4)
-[![Jellyfin on Apple TV (Almost) Every tvOS Client Ranked #jellyfinjune](https://ytcards.demolab.com/?id=CP9uoA6PX8U&title=Jellyfin+on+Apple+TV+%28Almost%29+Every+tvOS+Client+Ranked+%23jellyfinjune&lang=en&timestamp=1782345447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jellyfin on Apple TV (Almost) Every tvOS Client Ranked #jellyfinjune")](https://www.youtube.com/watch?v=CP9uoA6PX8U)
-[![Jellyfin 12 Is a Bigger Update Than It Looks. Should you upgrade?](https://ytcards.demolab.com/?id=IsknR7B8O7k&title=Jellyfin+12+Is+a+Bigger+Update+Than+It+Looks.+Should+you+upgrade%3F&lang=en&timestamp=1782151941&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jellyfin 12 Is a Bigger Update Than It Looks. Should you upgrade?")](https://www.youtube.com/watch?v=IsknR7B8O7k)
+
 <!-- END YOUTUBE-CARDS -->
 #
 
