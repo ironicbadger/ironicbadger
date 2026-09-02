@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-kretzschmar)
 
 - Find all my places at [alex.ktz.me](https://alex.ktz.me).
-- Head of Developer Relations at [Unraid](https://unraid.net/).
+- Head of Product Marketing at [Unraid](https://unraid.net/).
 - Check my 🖋 [blog](http://blog.ktz.me/) & [Perfect Media Server](https://perfectmediaserver.com/)
 
 #
