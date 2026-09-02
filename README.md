@@ -1,13 +1,13 @@
 ### Hey 👋, I'm Alex AKA IronicBadger
 
-**Father. Podcaster - [@selfhostedshow](https://selfhosted.show/). Tailscalar. Pizza connoisseur 🍕.**
+**Technical Educator | Self-Hosting Advocate | Pizza connoisseur 🍕.**
 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@ironicbadger)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/#self-hosted:matrix.org)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-kretzschmar)
 
 - Find all my places at [alex.ktz.me](https://alex.ktz.me).
-- Head of Developer Relations at [Tailscale](https://tailscale.com/).
+- Head of Developer Relations at [Unraid](https://unraid.net/).
 - Check my 🖋 [blog](http://blog.ktz.me/) & [Perfect Media Server](https://perfectmediaserver.com/)
 
 #
