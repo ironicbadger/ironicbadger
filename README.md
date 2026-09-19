@@ -20,7 +20,12 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Homelab Hardware Tour 2026 Edition](https://ytcards.demolab.com/?id=vktLEFH7t7c&title=Homelab+Hardware+Tour+2026+Edition&lang=en&timestamp=1787255062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Homelab Hardware Tour 2026 Edition")](https://www.youtube.com/watch?v=vktLEFH7t7c)
+[![I Finally Sorted Out My Box of Mystery USB Cables](https://ytcards.demolab.com/?id=SyexqtQBpDI&title=I+Finally+Sorted+Out+My+Box+of+Mystery+USB+Cables&lang=en&timestamp=1785694975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Finally Sorted Out My Box of Mystery USB Cables")](https://www.youtube.com/watch?v=SyexqtQBpDI)
+[![Jellyfin Just Lost Its Project Leader. What Happens Next?](https://ytcards.demolab.com/?id=6lZJXmB3x20&title=Jellyfin+Just+Lost+Its+Project+Leader.+What+Happens+Next%3F&lang=en&timestamp=1784673384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jellyfin Just Lost Its Project Leader. What Happens Next?")](https://www.youtube.com/watch?v=6lZJXmB3x20)
+[![New gear day! A Tour of My YouTube Recording Setup](https://ytcards.demolab.com/?id=7YaKLzjrUL8&title=New+gear+day%21+A+Tour+of+My+YouTube+Recording+Setup&lang=en&timestamp=1784074954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "New gear day! A Tour of My YouTube Recording Setup")](https://www.youtube.com/watch?v=7YaKLzjrUL8)
+[![I Made My 10-Year-Old Nvidia Shield Feel Brand New](https://ytcards.demolab.com/?id=6b1nBC-lkk0&title=I+Made+My+10-Year-Old+Nvidia+Shield+Feel+Brand+New&lang=en&timestamp=1783786932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Made My 10-Year-Old Nvidia Shield Feel Brand New")](https://www.youtube.com/watch?v=6b1nBC-lkk0)
+[![Immich v3 changes roundup | New features + breaking changes...](https://ytcards.demolab.com/?id=Pw6l4ZD4mC4&title=Immich+v3+changes+roundup+%7C+New+features+%2B+breaking+changes...&lang=en&timestamp=1783092885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Immich v3 changes roundup | New features + breaking changes...")](https://www.youtube.com/watch?v=Pw6l4ZD4mC4)
 <!-- END YOUTUBE-CARDS -->
 #
 
