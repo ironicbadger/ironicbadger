@@ -16,7 +16,7 @@
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/ktzsystems?sub_confirmation=1)
 
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/231567398-e4420e3d-2b98-4769-9243-b6d14aa2c1ef.png">
+ <img src="assets/ktz-systems-banner.png" alt="KTZ Systems banner with UniFi switches and the IronicBadger mascot">
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
